@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ali"
+  given-names: "Khatami"
+  email: "aliiuc86@gmail.com"
+- family-names: "Abdullahil"
+  given-names: "Kafi"
+  email: "abkafi@gmail.com"
+- family-names: "Md Rokib"
+  given-names: "Khan"
+  email: "rokibk548@gmail.com"
+title: "Security System GNS3"
+version: 1.0.0
+url: "https://github.com/C191068/Security-System-GNS3"
